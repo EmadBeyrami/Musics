@@ -1,0 +1,15 @@
+//
+//  Production.xcconfig
+//  MusicP
+//
+//  Created by Emad Bayramy on 8/10/21.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+APP_NAME = Music
+BASE_BUNDLE_ID = com.beyrami.MusicP
+URL_SCHEME = MusicP
+APP_ICON = AppIcon-Production
+APP_BASEURL = http:\/\/www.mocky.io\/

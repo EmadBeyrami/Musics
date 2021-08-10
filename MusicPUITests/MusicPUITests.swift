@@ -6,6 +6,7 @@
 //
 
 import XCTest
+@testable import MusicP
 
 class MusicPUITests: XCTestCase {
 

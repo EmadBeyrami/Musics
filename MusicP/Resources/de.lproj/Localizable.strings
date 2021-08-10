@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  MusicP
+
+  Created by Emad Bayramy on 8/10/21.
+  
+*/
+"discover" = "Entdecken";
+"search" = "Suche";
+"Change_Lang" = "Sprache ändern";
+"cancel" = "schließen";
+"error" = "Error";
+"ok" = "Ok";

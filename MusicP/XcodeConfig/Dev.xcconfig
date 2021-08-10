@@ -1,0 +1,15 @@
+//
+//  Dev.xcconfig
+//  MusicP
+//
+//  Created by Emad Bayramy on 8/10/21.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+APP_NAME = Music Dev
+BASE_BUNDLE_ID = com.beyrami.MusicP.dev
+URL_SCHEME = MusicP
+APP_ICON = AppIcon-dev
+APP_BASEURL = http:\/\/www.mocky.io\/
